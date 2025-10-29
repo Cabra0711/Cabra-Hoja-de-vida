@@ -1,0 +1,32 @@
+.titulo{
+    text-align: center;
+}
+.imagen{
+    width: 22%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.titulo2{
+    color: rgb(254, 255, 255);
+    text-align: center;
+    background-color: rgb(83, 83, 83);
+    margin: 40px;
+}
+.titulo3{
+    margin:90px;;
+    text-align: center;
+}
+.nombre{
+    text-align: right;
+}
+.perfil{
+    text-align: center;
+    color: rgb(247, 247, 247);
+    background-color: rgb(83, 83, 83);
+    margin: 40px;
+}
